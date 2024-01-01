@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[AWS and Azure Cloud](https://azure.microsoft.com/en-us/services/devops/)**
+- 🔭 I’m currently working on **Identity and Acess management Engineer**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **karthish.g@gmail.com**
 
-- ⚡ Fun fact : **I play the Carnatic Violin.**
+- ⚡ Fun fact : **I play the Carnatic Style Violin.**
 
 ## 🚀 Languages and Tools:
 
