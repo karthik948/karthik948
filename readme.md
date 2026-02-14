@@ -26,7 +26,7 @@ class KarthishG:
         self.username = "karthik948"
         self.role = "Cloud Operations Engineer"
         self.location = "India 🇮🇳"
-        self.current_focus = "Identity & Access Management"
+        self.current_focus = "Senior Cloud Identity and Devops Engineer"
         self.learning = ["Data Structures", "Algorithms", "System Design"]
         self.hobbies = ["Carnatic Violin 🎻", "Open Source 💻", "Cloud Architecture ☁️"]
     
@@ -44,7 +44,7 @@ me.say_hi()
 </div>
 
 ```yaml
-Current Role: Identity & Access Management Engineer
+Current Role: Senior Cloud Identity and Devops Engineer
 Focus Areas:
   - 🔐 IAM Architecture & Implementation
   - ☁️ Multi-Cloud Security (AWS, Azure)
