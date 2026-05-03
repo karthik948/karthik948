@@ -24,7 +24,7 @@
 class KarthishG:
     def __init__(self):
         self.username = "karthik948"
-        self.role = "Cloud Operations Engineer"
+        self.role = "Senior IAM Engineer"
         self.location = "India 🇮🇳"
         self.current_focus = "Senior Cloud Identity and Devops Engineer"
         self.learning = ["Data Structures", "Algorithms", "System Design"]
